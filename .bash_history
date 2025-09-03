@@ -20,3 +20,11 @@ gh auth login
 gh auth status
 gh auth login
 gh repo create my-AIMisinfo-repo --public --source=. --remote=origin --push
+git add .
+git commit -m "First Protcol"
+git push
+git remote origin https://github.com/praxshannu/MisinformationAITool
+git remote add origin https://github.com/praxshannu/MisinformationAITool.git
+git branch -M main
+git push -u origin main
+git add.

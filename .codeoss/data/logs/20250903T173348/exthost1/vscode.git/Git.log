@@ -77,3 +77,22 @@ Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 2025-09-03 17:47:28.701 [warning] [Git][getBranch] No such branch: master
 2025-09-03 17:47:28.736 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
 2025-09-03 17:47:29.083 [info] > git status -z -uall [368ms]
+2025-09-03 18:07:14.834 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-03 18:07:14.835 [info] > git config --get commit.template [10ms]
+2025-09-03 18:07:14.836 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-09-03 18:07:14.860 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-09-03 18:07:14.903 [info] > git status -z -uall [59ms]
+2025-09-03 18:07:15.727 [info] > git show --textconv :MisInfomation.py [8ms]
+2025-09-03 18:07:15.731 [info] > git ls-files --stage -- MisInfomation.py [5ms]
+2025-09-03 18:07:15.741 [info] > git cat-file -s c14ebcbe6b4a095d81d7124a8f3f5ef134d8793e [2ms]
+2025-09-03 18:07:16.486 [info] > git blame --root --incremental 09ca1979ab49db7de226b2c825f951138add85e5 -- MisInfomation.py [3ms]
+2025-09-03 18:09:09.212 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-03 18:09:09.213 [info] > git config --get commit.template [9ms]
+2025-09-03 18:09:09.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-09-03 18:09:09.240 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-03 18:09:09.289 [info] > git status -z -uall [67ms]
+2025-09-03 18:09:14.308 [info] [Git][getRemotes] No remotes found in the git config file
+2025-09-03 18:09:14.308 [info] > git config --get commit.template [8ms]
+2025-09-03 18:09:14.309 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-09-03 18:09:14.335 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-03 18:09:14.372 [info] > git status -z -uall [55ms]

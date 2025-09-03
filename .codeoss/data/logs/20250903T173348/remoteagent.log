@@ -8,3 +8,9 @@
 2025-09-03 17:33:51.433 [info] ComputeTargetPlatform: linux-x64
 2025-09-03 17:33:51.557 [info] [127.0.0.1][b77f4bf0][ExtensionHostConnection] New connection established.
 2025-09-03 17:33:52.533 [info] [127.0.0.1][b77f4bf0][ExtensionHostConnection] <1236> Launched Extension Host Process.
+2025-09-03 18:05:54.795 [info] [127.0.0.1][a61502fa][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-09-03 18:06:34.205 [info] [127.0.0.1][a61502fa][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-09-03 18:06:34.207 [info] [127.0.0.1][b77f4bf0][ExtensionHostConnection] The client has reconnected.
+2025-09-03 18:06:34.655 [info] [127.0.0.1][a61502fa][ManagementConnection] The client has reconnected.
+2025-09-03 18:08:28.287 [info] [127.0.0.1][a61502fa][ManagementConnection] The client has reconnected.
+2025-09-03 18:08:28.515 [info] [127.0.0.1][b77f4bf0][ExtensionHostConnection] The client has reconnected.
