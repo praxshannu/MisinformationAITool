@@ -1,0 +1,14 @@
+{
+  "name": "my-awesome-typescript-library",
+  "version": "1.0.0",
+  "description": "My Awesome TypeScript Library",
+  "main": "dist/api/client.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/api/client.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {}
+}

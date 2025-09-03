@@ -1,0 +1,37 @@
+2025-09-03 17:33:59.139 [warning] Dir "/home/praveenhonuka672/.pixi/envs" is not watchable (directory does not exist)
+2025-09-03 17:33:59.139 [info] Starting Environment refresh
+2025-09-03 17:33:59.139 [info] Searching for interpreters in posix paths locator
+2025-09-03 17:33:59.139 [info] Searching for pyenv environments
+2025-09-03 17:33:59.139 [info] Searching for conda environments
+2025-09-03 17:33:59.139 [info] Searching for global virtual environments
+2025-09-03 17:33:59.139 [info] Searching for custom virtual environments
+2025-09-03 17:33:59.139 [info] pyenv is not installed
+2025-09-03 17:33:59.139 [info] Finished searching for pyenv environments: 26 milliseconds
+2025-09-03 17:33:59.139 [info] Finished searching for custom virtual envs: 25 milliseconds
+2025-09-03 17:33:59.139 [info] > conda info --json
+2025-09-03 17:33:59.139 [info] > hatch env show --json
+2025-09-03 17:33:59.139 [info] cwd: .
+2025-09-03 17:33:59.139 [info] > pyenv which python
+2025-09-03 17:33:59.139 [info] cwd: .
+2025-09-03 17:33:59.139 [info] Finished searching for global virtual envs: 51 milliseconds
+2025-09-03 17:33:59.140 [info] Found: /bin/python --> /bin/python3.12
+2025-09-03 17:33:59.142 [info] Found: /bin/python3 --> /bin/python3.12
+2025-09-03 17:33:59.142 [info] Found: /bin/python3.12 --> /bin/python3.12
+2025-09-03 17:33:59.159 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2025-09-03 17:33:59.159 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2025-09-03 17:33:59.159 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2025-09-03 17:33:59.350 [info] Finished searching for interpreters in posix paths locator: 281 milliseconds
+2025-09-03 17:33:59.350 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-09-03 17:33:59.362 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-09-03 17:33:59.362 [info] Environments refresh paths discovered (event): 297 milliseconds
+2025-09-03 17:33:59.362 [info] Environments refresh paths discovered: 297 milliseconds
+2025-09-03 17:33:59.429 [info] Environments refresh finished (event): 364 milliseconds
+2025-09-03 17:33:59.440 [info] Environment refresh took 373 milliseconds
+2025-09-03 17:34:01.879 [info] Python interpreter path: /bin/python
+2025-09-03 17:34:05.319 [info] Starting Jedi language server for praveenhonuka672.
+2025-09-03 17:34:05.521 [info] Discover tests for workspace name: undefined - uri: /User/settings.json
+2025-09-03 17:35:10.600 [info] Discover tests for workspace name: praveenhonuka672 - uri: /home/praveenhonuka672/MisInfomation.py
+2025-09-03 17:35:14.104 [info] Discover tests for workspace name: praveenhonuka672 - uri: /home/praveenhonuka672/MisInfomation.py
+2025-09-03 17:35:14.704 [info] Discover tests for workspace name: praveenhonuka672 - uri: /home/praveenhonuka672/MisInfomation.py
+2025-09-03 17:35:16.559 [info] Discover tests for workspace name: praveenhonuka672 - uri: /home/praveenhonuka672/MisInfomation.py
+2025-09-03 17:35:17.185 [info] Discover tests for workspace name: praveenhonuka672 - uri: /home/praveenhonuka672/MisInfomation.py

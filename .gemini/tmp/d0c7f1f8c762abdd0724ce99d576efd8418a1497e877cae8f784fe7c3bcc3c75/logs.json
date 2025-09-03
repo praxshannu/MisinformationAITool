@@ -1,0 +1,16 @@
+[
+  {
+    "sessionId": "8b278ad4-e6b0-4312-a203-35f7820b3439",
+    "messageId": 0,
+    "type": "user",
+    "message": "hin",
+    "timestamp": "2025-09-03T15:43:29.630Z"
+  },
+  {
+    "sessionId": "8b278ad4-e6b0-4312-a203-35f7820b3439",
+    "messageId": 1,
+    "type": "user",
+    "message": "pip install matplotlib",
+    "timestamp": "2025-09-03T15:43:58.103Z"
+  }
+]
