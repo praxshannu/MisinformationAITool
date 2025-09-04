@@ -28,3 +28,7 @@ git remote add origin https://github.com/praxshannu/MisinformationAITool.git
 git branch -M main
 git push -u origin main
 git add.
+git add .
+git commit -m "updated"
+git push
+ls

@@ -1,0 +1,12 @@
+2025-09-04 18:01:16.597 [info] 
+
+
+
+
+2025-09-04 18:01:16.597 [info] Extension host agent started.
+2025-09-04 18:01:18.273 [info] [127.0.0.1][d12bff1a][ManagementConnection] New connection established.
+2025-09-04 18:01:18.696 [info] ComputeTargetPlatform: linux-x64
+2025-09-04 18:01:19.310 [info] [127.0.0.1][c015451e][ExtensionHostConnection] New connection established.
+2025-09-04 18:01:20.111 [info] [127.0.0.1][c015451e][ExtensionHostConnection] <1229> Launched Extension Host Process.
+2025-09-04 18:02:12.309 [info] [127.0.0.1][c015451e][ExtensionHostConnection] The client has reconnected.
+2025-09-04 18:02:13.480 [info] [127.0.0.1][d12bff1a][ManagementConnection] The client has reconnected.
